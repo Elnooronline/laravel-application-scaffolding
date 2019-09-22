@@ -11,7 +11,7 @@
 |
 */
 
-Route::redirect('/', 'dashboard');
+Route::view('/', 'welcome');
 Route::redirect('/home', 'dashboard');
 
 Auth::routes();
