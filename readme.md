@@ -1,6 +1,6 @@
 Laravel Scaffolding
 =====================
-A non-official laravel application scaffolding that includes `debugbar`, `ide-helper`, `.php_cs` and `Eslint` configurations.
+A non-official laravel application scaffolding that includes `AdminLTE`, `debugbar`, `ide-helper`, `.php_cs` and `Eslint` configurations.
 Mirrored from [https://github.com/laravel/laravel.git](https://github.com/laravel/laravel.git).
 
 ## Requirements
@@ -9,7 +9,7 @@ The requirements is the same as of the [official requirements](https://laravel.c
 ## Installation
 You can also install Laravel via Composer by issuing the `create-project` command in your terminal:
 ```
-composer create-project --prefer-dist alshahawi/laravel-scaffolding blog
+composer create-project --prefer-dist elnooronline/laravel-application-scaffolding laravelapp
 ```
 The above command will install a new laravel application for you.
 
